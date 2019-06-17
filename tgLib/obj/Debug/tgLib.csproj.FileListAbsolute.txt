@@ -1,0 +1,12 @@
+C:\Users\Yulya_il\Desktop\чат\Board-games-library-master\Board-games-library-master\tgLib\bin\Debug\tgLib.dll
+C:\Users\Yulya_il\Desktop\чат\Board-games-library-master\Board-games-library-master\tgLib\bin\Debug\tgLib.pdb
+C:\Users\Yulya_il\Desktop\чат\Board-games-library-master\Board-games-library-master\tgLib\obj\Debug\tgLib.csprojAssemblyReference.cache
+C:\Users\Yulya_il\Desktop\чат\Board-games-library-master\Board-games-library-master\tgLib\obj\Debug\tgLib.csproj.CoreCompileInputs.cache
+C:\Users\Yulya_il\Desktop\чат\Board-games-library-master\Board-games-library-master\tgLib\obj\Debug\tgLib.dll
+C:\Users\Yulya_il\Desktop\чат\Board-games-library-master\Board-games-library-master\tgLib\obj\Debug\tgLib.pdb
+C:\Users\Yulya_il\Desktop\Board-games\Board-games\tgLib\bin\Debug\tgLib.dll
+C:\Users\Yulya_il\Desktop\Board-games\Board-games\tgLib\bin\Debug\tgLib.pdb
+C:\Users\Yulya_il\Desktop\Board-games\Board-games\tgLib\obj\Debug\tgLib.csprojAssemblyReference.cache
+C:\Users\Yulya_il\Desktop\Board-games\Board-games\tgLib\obj\Debug\tgLib.csproj.CoreCompileInputs.cache
+C:\Users\Yulya_il\Desktop\Board-games\Board-games\tgLib\obj\Debug\tgLib.dll
+C:\Users\Yulya_il\Desktop\Board-games\Board-games\tgLib\obj\Debug\tgLib.pdb
